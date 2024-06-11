@@ -11,8 +11,13 @@
             "id": "a80b911d003141ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lets test if this works.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lets test if this works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lets test if this works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lets test if this works.md"
+              }
             }
           }
         ]
@@ -139,8 +148,9 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "3d55e275096c4c03",
+  "active": "a80b911d003141ae",
   "lastOpenFiles": [
+    "Lets test if this works.md",
     "Year 10/English",
     "Year 10/Science/Biology/Cells.md",
     "Year 10/Science/Biology/Organelles.md",
