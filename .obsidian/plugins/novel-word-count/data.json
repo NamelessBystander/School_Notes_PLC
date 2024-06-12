@@ -323,6 +323,24 @@
       "createdDate": 1716551812252,
       "modifiedDate": 1716551812252,
       "sizeInBytes": 53340
+    },
+    "OK now this is the last test.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 49,
+      "nonWhitespaceCharacterCount": 38,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1718192025271,
+      "modifiedDate": 1718192054557,
+      "sizeInBytes": 49
     }
   }
 }
