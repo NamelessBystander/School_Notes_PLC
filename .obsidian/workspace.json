@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lets test if this works.md",
-                "mode": "source",
+                "file": "Year 10/Science/Physics/Motion.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lets test if this works.md",
+                "file": "Year 10/Science/Physics/Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lets test if this works.md",
+                "file": "Year 10/Science/Physics/Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lets test if this works.md"
+                "file": "Year 10/Science/Physics/Motion.md"
               }
             }
           }
@@ -150,20 +150,20 @@
   },
   "active": "a80b911d003141ae",
   "lastOpenFiles": [
-    "Lets test if this works.md",
-    "Year 10/English",
-    "Year 10/Science/Biology/Cells.md",
+    "Year 10/Science/Physics/Formula List.md",
+    "Year 10/Science/Physics/Forces.md",
+    "Year 10/Science/Physics/Energy.md",
     "Year 10/Science/Biology/Organelles.md",
     "Year 10/Science/Biology/Genetics.md",
+    "Year 10/Science/Biology/Cells.md",
+    "Lets test if this works.md",
+    "Year 10/English",
     "Year 10/Science/Biology/Evolution.md",
     "Year 10/HASS/Civil rights/History of Slavery.md",
     "Year 10/Science/Chemisty",
     "Year 10/HASS/Civil rights",
     "Year 10/Science/Physics/Motion.md",
-    "Year 10/Science/Physics/Formula List.md",
     "Year 10/Science/Physics/Variables list.md",
-    "Year 10/Science/Physics/Forces.md",
-    "Year 10/Science/Physics/Energy.md",
     "Pictures/Pasted image 20240526120349.png",
     "Dictionary.md",
     "Pictures/Pasted image 20240525212651.png",
