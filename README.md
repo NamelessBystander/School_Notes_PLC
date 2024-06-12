@@ -1,6 +1,6 @@
 # Introduction
 
-Hello there! This is my collection of notes for various subjects. As long as I stay interested, I'll keep adding information here, covering any topic that allows me to use a computer. The goal is to have as much information as possible in one place.
+Hello there, This is my collection of notes for various subjects. As long as I stay interested, I'll keep adding information here, covering any topic that allows me to use a computer. The goal is to have as much information as possible in one place.
 
 ## Installation
 
