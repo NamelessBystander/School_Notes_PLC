@@ -1,16 +1,42 @@
-# INTRO
-hello there this is my notes for as long as i dont lose interest it will be for most subjects that let me use a computer and will have as much infomatoin as possible in one place
-# Install 
-so you want to use the .md files more like pdfs than large blocks of hashtags and brakets your going to need to set up obsidian and learn how to update it so you get the latest notes.
-1. go to https://obsidian.md/download and go though the set up prossess but dont create a volt when prompted
-2. next go https://gitforwindows.org/ and install git
-3. create a new folder on divice (Dont use onedrive)
-4. right click the folder in file explorer and click open in terminal
-5. then write the command "git clone https://github.com/NamelessBystander/School_Notes_PLC.git"
-6. now go back into obsidian and click chose folder as volt and chose the folder you created
+# Introduction
 
-# Update
-Now you have it installed every time you want to update the notes you need to go to file explorer find the file that is your volt right click open in terminal and write the commands (git reset --hard origin) then (git pull)
+Hello there! This is my collection of notes for various subjects. As long as I stay interested, I'll keep adding information here, covering any topic that allows me to use a computer. The goal is to have as much information as possible in one place.
+
+## Installation
+
+To use these .md files in a more readable format (like PDFs rather than large blocks of hashtags and brackets), you'll need to set up Obsidian and learn how to update it to get the latest notes.
+
+1. **Download Obsidian**  
+   Go to [Obsidian's website](https://obsidian.md/download) and follow the setup process, but don't create a vault when prompted.
+
+2. **Install Git**  
+   Go to [Git for Windows](https://gitforwindows.org/) and install Git.
+
+3. **Create a Folder**  
+   Create a new folder on your device (don't use OneDrive).
+
+4. **Open Folder in Terminal**  
+   Right-click the folder in File Explorer and select "Open in Terminal."
+
+5. **Clone the Repository**  
+   Run the following command in the terminal:  
+   ```sh
+   git clone https://github.com/NamelessBystander/School_Notes_PLC.git
+   
+6. **Open Folder as Vault in Obsidian**
+   Open Obsidian, click "Open folder as vault," and select the folder you created.
+
+## Updating Notes
+
+To update the notes, follow these steps:
+
+1. **Open Terminal in Vault Folder**
+   Go to File Explorer, find your vault folder, right-click, and select "Open in Terminal."
+2. **Reset and Pull Latest Changes**
+   Run the following commands in the terminal:
+   ```sh
+   git reset --hard origin
+   git pull
+   ```
 
 
-and your done good job
