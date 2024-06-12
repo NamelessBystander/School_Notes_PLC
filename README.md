@@ -24,6 +24,7 @@ To use these .md files in a more readable format (like PDFs rather than large bl
    git clone https://github.com/NamelessBystander/School_Notes_PLC.git
    
 6. **Open Folder as Vault in Obsidian**
+   
    Open Obsidian, click "Open folder as vault," and select the folder you created.
 
 ## Updating Notes
@@ -31,8 +32,10 @@ To use these .md files in a more readable format (like PDFs rather than large bl
 To update the notes, follow these steps:
 
 1. **Open Terminal in Vault Folder**
+   
    Go to File Explorer, find your vault folder, right-click, and select "Open in Terminal."
-2. **Reset and Pull Latest Changes**
+3. **Reset and Pull Latest Changes**
+   
    Run the following commands in the terminal:
    ```sh
    git reset --hard origin
